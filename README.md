@@ -4,6 +4,10 @@
 
 Software Engineer | Gameplay Programmer | Unreal Engine Developer
 
+📍 United Kingdom
+🎮 Building ORYX
+💻 Open to Software Engineering & Gameplay Programming Opportunities
+
 Computing & Web Development Graduate with experience in game development, software engineering, and full-stack web development.
 
 Currently focused on building ORYX, a third-person roguelite developed in Unreal Engine 5 using C++.
